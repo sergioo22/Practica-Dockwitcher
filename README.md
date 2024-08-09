@@ -9,4 +9,9 @@
             *Licencias
             *Categoria
             *Caducidad
+       Para ubicar el codigo resuelto dejo los path correspondientes: 
+              src/main/kotlin/com/hotakakademy/dockwitcher/controllers/ConductoresController.kt
+              src/main/kotlin/com/hotakakademy/dockwitcher/domain/repositories/ConductorRepository.kt
+              src/main/kotlin/com/hotakakademy/dockwitcher/domain/repositories/IConductorRepository.kt
 # 2 - Habilitar el CORS en la API.
+       Para ubicar el codigo resuelto dejo el path correspondiente: src/main/kotlin/com/hotakakademy/dockwitcher/configuration/CorsConfig.kt
